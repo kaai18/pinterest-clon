@@ -4,7 +4,7 @@
 Proyecto creado durante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla.
 El propósito de está página web es mostrar mi portafolio de proyectos como desarrolladora web. 💜
 
-Podrás encontrarlo aquí [Clon Pinterest](https://kaai18.github.io/)
+Podrás encontrarlo aquí [Clon Pinterest](pinterest-clon-eta.vercel.app)
 
 ### Tecnologías
 
